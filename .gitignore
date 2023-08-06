@@ -1,0 +1,12 @@
+# Папки
+/node_modules
+/logs
+/tmp
+/uploads
+/data
+/output
+
+# Файлы
+*.log
+*.env
+*.gz
